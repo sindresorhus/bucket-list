@@ -7,3 +7,5 @@
 5. <img src="buckets/5.jpg" height="200">
 6. <img src="buckets/6.jpg" height="200">
 7. <img src="buckets/7.jpg" height="200">
+8. <img src="http://gatewaynaturalmedicine.com/wp-content/uploads/2015/09/MaryRose-leather_bucket.jpg" height="200">
+
