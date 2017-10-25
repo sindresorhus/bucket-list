@@ -7,3 +7,4 @@
 5. <img src="buckets/5.jpg" height="200">
 6. <img src="buckets/6.jpg" height="200">
 7. <img src="buckets/7.jpg" height="200">
+7. <img src="buckets/8.png" height="200">
