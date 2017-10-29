@@ -9,4 +9,4 @@
 7. <img src="buckets/7.png" height="300">
 8. <img src="buckets/8.png" height="200">
 9. <img src="buckets/9.jpg" height="200">
-10. <img src="http://scienceismetal.com/wp-content/uploads/2014/09/Buckethead.jpg" height="300">
+10. <img src="buckets/10.jpg" height="200">
