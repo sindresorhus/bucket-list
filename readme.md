@@ -8,3 +8,5 @@
 6. <img src="buckets/6.jpg" height="200">
 7. <img src="buckets/7.jpg" height="200">
 8. <img src="buckets/8.jpg" height="200">
+9. <img src="buckets/9.jpg" height="200">
+10. <img src="buckets/10.jpg" height="200">
