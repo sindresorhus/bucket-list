@@ -11,4 +11,5 @@
 9. <img src="buckets/9.jpg" height="200">
 10. <img src="http://scienceismetal.com/wp-content/uploads/2014/09/Buckethead.jpg" height="300">
 11. <img src="buckets/ice-bucket.jpg" height="250">
-12. <img src="buckets/halloween-bucket.jpg" height="250">
+12. <img src="buckets/ice-cream-bucket.jpg" height="200">
+13. <img src="buckets/halloween-bucket.jpg" height="250">
