@@ -13,4 +13,6 @@
 11. <img src="buckets/ice-bucket.jpg" height="250">
 12. <img src="buckets/ice-cream-bucket.jpg" height="200">
 13. <img src="buckets/halloween-bucket.jpg" height="250">
-14. <img src="buckets/14.jpg" height="300">
+14. <img src="buckets/cats-and-buckets.jpg" height="250">
+15. <img src="buckets/skittles.jpg" height="200">
+16. <img src="buckets/lord-buckethead.jpg" height="300">
