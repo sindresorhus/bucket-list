@@ -11,4 +11,11 @@
 9. <img src="buckets/9.jpg" height="200">
 10. <img src="http://scienceismetal.com/wp-content/uploads/2014/09/Buckethead.jpg" height="300">
 11. <img src="buckets/ice-bucket.jpg" height="250">
-12. <img src="buckets/10.jpg" height="300">
+12. <img src="buckets/ice-cream-bucket.jpg" height="200">
+13. <img src="buckets/halloween-bucket.jpg" height="250">
+14. <img src="buckets/cats-and-buckets.jpg" height="250">
+15. <img src="buckets/skittles.jpg" height="200">
+16. <img src="buckets/lord-buckethead.jpg" height="300">
+17. <img src="buckets/fire-buckets.jpg" height="300">
+18. <img src="buckets/10.jpg" height="300">
+
